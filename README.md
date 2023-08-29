@@ -1,7 +1,7 @@
 ### Olá eu sou Anderson 👋
 
-- 🔭 Hoje trabalho com java/c#
-- 🌱 Estudando Spring Framework
+- 🔭 Linguagem é apenas uma ferramenta
+- Atuando ativamente em projetos Java/Spring
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
